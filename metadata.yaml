@@ -1,10 +1,16 @@
 _repo: Bodyguard_50988
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50988-h/images/cover.jpg
 creator:
   author:
     agent_name: Grimm, Christopher
     gutenberg_agent_id: '46184'
     url: http://www.gutenberg.org/2009/agents/46184
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50988#Bodyguard
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-21'
 gutenberg_type: Text
